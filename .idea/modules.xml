@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstraccion/Abstraccion.iml" filepath="$PROJECT_DIR$/Abstraccion/Abstraccion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bucles/Bucles.iml" filepath="$PROJECT_DIR$/Bucles/Bucles.iml" />
       <module fileurl="file://$PROJECT_DIR$/Coches/Coches.iml" filepath="$PROJECT_DIR$/Coches/Coches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" filepath="$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" />
       <module fileurl="file://$PROJECT_DIR$/OpenBootCamp.iml" filepath="$PROJECT_DIR$/OpenBootCamp.iml" />
     </modules>
   </component>
