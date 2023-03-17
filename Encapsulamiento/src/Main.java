@@ -2,14 +2,15 @@ public class Main {
     public static void main(String[] args) {
         Persona adulto1 = new Persona();
 
-        System.out.println(adulto1.getEdad());
-        System.out.println(adulto1.getNombre());
-        System.out.println(adulto1.getTelefono());
+        System.out.println("Estos son los datos de una persona");
+        System.out.println(adulto1.getNombre() + ", " + adulto1.getEdad() + ", " + adulto1.getTelefono());
 
         adulto1.setNombre("Pedro");
         System.out.println("Ahora esta persona se llama " + adulto1.getNombre());
         adulto1.setTelefono(5512333);
         System.out.println("Y se compro un numero de telefono, el cual es " + adulto1.getTelefono());
+        adulto1.setEdad(27);
+        System.out.println("La edad correcta de " + adulto1.getNombre() + " es "+ adulto1.getEdad());
     }
 }
 
