@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Coches/Coches.iml" filepath="$PROJECT_DIR$/Coches/Coches.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" filepath="$PROJECT_DIR$/Encapsulamiento/Encapsulamiento.iml" />
       <module fileurl="file://$PROJECT_DIR$/OpenBootCamp.iml" filepath="$PROJECT_DIR$/OpenBootCamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Persona/Persona.iml" filepath="$PROJECT_DIR$/Persona/Persona.iml" />
     </modules>
   </component>
 </project>
